@@ -1,0 +1,7 @@
+this fixes evid-dkmg issue aka dpkg
+
+this issue usually happens for the display link driver or any update of the system
+
+https://www.displaylink.org/forum/showpost.php?p=94504&postcount=8
+
+github issue https://github.com/DisplayLink/evdi/issues/387#issuecomment-1312453970
